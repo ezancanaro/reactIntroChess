@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The easiest way to run it is to create a new app with the create-react-app tool and overwrite the src directory files.
 
 ## Available Scripts
 
